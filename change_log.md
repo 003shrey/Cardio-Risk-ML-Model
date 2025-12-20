@@ -1,0 +1,1 @@
+Date-  19 dec 2025--  The repo is created late, dataset from kaggle the data overview, eda and feature extraction is done within 2 days of using the dataset, as of now the linear regression model is applied, but soon better model for the data-set to be applied and deployment within next week, will update as soon as it will be done
