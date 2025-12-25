@@ -4,7 +4,7 @@ A Machine Learning-powered web application that predicts the risk of heart disea
 
 ## 🌐 Live Demo
 
-**Try the application here:** [Cardio Risk ML Model](https://cardio-risk-ml-model-9yeiftolaxgimwcls4duzm.streamlit.app/#cardio-risk-ml-model)
+**Try the application here:** [Cardio Risk ML Model](https://cardio-risk-ml-model-9yeiftolaxgimwcls4duzm.streamlit.app/)
 
 ## 📋 Table of Contents
 
@@ -180,7 +180,7 @@ http://localhost:8501
 
 ### Using the Web Application
 
-1. **Access the Application**: Open the [live deployment link](https://cardio-risk-ml-model-9yeiftolaxgimwcls4duzm.streamlit.app/#cardio-risk-ml-model) or run it locally
+1. **Access the Application**: Open the [live deployment link](https://cardio-risk-ml-model-9yeiftolaxgimwcls4duzm.streamlit.app/) or run it locally
 
 2. **Enter Patient Information**:
    - Adjust the **Age** slider (18-100 years)
@@ -315,7 +315,7 @@ Copyright (c) 2025 Shreyansh Yadav
 
 - GitHub: [@003shrey](https://github.com/003shrey)
 - Project Link: [https://github.com/003shrey/Cardio-Risk-ML-Model](https://github.com/003shrey/Cardio-Risk-ML-Model)
-- Live Application: [Cardio Risk ML Model](https://cardio-risk-ml-model-9yeiftolaxgimwcls4duzm.streamlit.app/#cardio-risk-ml-model)
+- Live Application: [Cardio Risk ML Model](https://cardio-risk-ml-model-9yeiftolaxgimwcls4duzm.streamlit.app/)
 
 ## ⚠️ Disclaimer
 
