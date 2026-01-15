@@ -5,3 +5,5 @@ Date-  19 dec 2025--  The repo is created late, dataset from kaggle the data ove
 
 **“Risk probability increases significantly when exercise-induced angina is present, reflecting known clinical patterns.”**
 This one is good observation and shows that mode work fine on KNN algorithm will test more to check if the model works fine on the borderline data entry, uploading the model this evening
+
+15 Jan 2026-  Since I seen the model dont behave well on the borderline data, I have decided to hypertune the model and maybe used any other algorithm to use this project
