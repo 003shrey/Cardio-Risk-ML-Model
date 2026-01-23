@@ -2,7 +2,7 @@
 
 A Machine Learning-powered web application that predicts the risk of heart disease based on various clinical and physiological parameters. This project leverages the K-Nearest Neighbors (KNN) algorithm to analyze patient data and provide real-time risk assessments.
 
-## 🌐 Live Demo
+## 🌐 Live Demoo
 
 **Try the application here:** [Cardio Risk ML Model](https://cardio-risk-ml-model-9yeiftolaxgimwcls4duzm.streamlit.app/)
 
