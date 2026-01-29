@@ -1,12 +1,12 @@
-# ❤️ Cardio-Risk-ML-Model
+#  Cardio-Risk-ML-Model
 
 A Machine Learning-powered web application that predicts the risk of heart disease based on various clinical and physiological parameters. This project leverages the K-Nearest Neighbors (KNN) algorithm to analyze patient data and provide real-time risk assessments.
 
-## 🌐 Live Demoo
+##  Live Demoo
 
 **Try the application here:** [Cardio Risk ML Model](https://cardio-risk-ml-model-9yeiftolaxgimwcls4duzm.streamlit.app/)
 
-## 📋 Table of Contents
+##  Table of Contents
 
 - [About the Project](#about-the-project)
 - [Features](#features)
@@ -22,13 +22,13 @@ A Machine Learning-powered web application that predicts the risk of heart disea
 - [License](#license)
 - [Author](#author)
 
-## 🎯 About the Project
+##  About the Project
 
 Heart disease remains one of the leading causes of mortality worldwide. This project aims to provide an accessible, user-friendly tool for preliminary heart disease risk assessment. By analyzing key health indicators such as age, blood pressure, cholesterol levels, and exercise-induced symptoms, the model helps identify individuals who may be at higher risk and should seek professional medical consultation.
 
 The application uses a trained K-Nearest Neighbors (KNN) machine learning model that has been optimized for accuracy and deployed as an interactive web interface using Streamlit.
 
-## ✨ Features
+##  Features
 
 - **Interactive User Interface**: Easy-to-use web interface built with Streamlit
 - **Real-time Predictions**: Instant risk assessment based on input parameters
@@ -48,7 +48,7 @@ The application uses a trained K-Nearest Neighbors (KNN) machine learning model 
 - **Visual Risk Indicators**: Color-coded results (Green for low risk, Red for high risk)
 - **Scalable and Deployable**: Ready for cloud deployment on Streamlit Cloud
 
-## 📊 Dataset Information
+##  Dataset Information
 
 The model is trained on a comprehensive heart disease dataset containing **918 patient records** with the following characteristics:
 
@@ -75,7 +75,7 @@ The model is trained on a comprehensive heart disease dataset containing **918 p
 | Oldpeak | ST depression induced by exercise | 0.0-6.0 |
 | ST_Slope | Slope of peak exercise ST segment | Up, Flat, Down |
 
-## 🤖 Model Details
+##  Model Details
 
 ### Algorithm: K-Nearest Neighbors (KNN)
 
@@ -106,7 +106,7 @@ The model has been trained and validated to provide reliable predictions. Key ob
 - The model performs well on borderline cases, providing nuanced probability scores
 - Regular validation ensures consistent performance across different patient profiles
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
 ### Machine Learning & Data Science
 - **Python 3.x**: Core programming language
@@ -126,7 +126,7 @@ The model has been trained and validated to provide reliable predictions. Key ob
 ### Deployment
 - **Streamlit Cloud**: Cloud hosting platform for deployment
 
-## 📥 Installation
+##  Installation
 
 Follow these steps to run the application locally:
 
@@ -176,7 +176,7 @@ Open your web browser and navigate to:
 http://localhost:8501
 ```
 
-## 🚀 Usage
+##  Usage
 
 ### Using the Web Application
 
@@ -227,7 +227,7 @@ http://localhost:8501
 
 **Output**: The model will calculate the risk probability and display whether the patient is at low or high risk for heart disease.
 
-## 📁 Project Structure
+##  Project Structure
 
 ```
 Cardio-Risk-ML-Model/
@@ -256,7 +256,7 @@ Cardio-Risk-ML-Model/
 - **heart.csv**: Original dataset with 918 patient records
 - **requirements.txt**: All Python package dependencies needed to run the project
 
-## 💡 Key Insights
+##  Key Insights
 
 Based on the model training and analysis, several important insights have been discovered:
 
@@ -285,7 +285,7 @@ Planned improvements and features for future versions:
 - [ ] **Integration with EHR Systems**: Connect with Electronic Health Record systems for seamless data flow
 - [ ] **Real-time Model Retraining**: Implement continuous learning with new validated data
 
-## 🤝 Contributing
+##  Contributing
 
 Contributions are welcome and greatly appreciated! If you have suggestions for improvements, please follow these steps:
 
@@ -303,13 +303,13 @@ Contributions are welcome and greatly appreciated! If you have suggestions for i
 - Update the README.md if you add new features
 - Be respectful and constructive in discussions
 
-## 📄 License
+##  License
 
 This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) file for details.
 
 Copyright (c) 2025 Shreyansh Yadav
 
-## 👨‍💻 Author
+##  Author
 
 **Shreyansh Yadav**
 
@@ -317,7 +317,7 @@ Copyright (c) 2025 Shreyansh Yadav
 - Project Link: [https://github.com/003shrey/Cardio-Risk-ML-Model](https://github.com/003shrey/Cardio-Risk-ML-Model)
 - Live Application: [Cardio Risk ML Model](https://cardio-risk-ml-model-9yeiftolaxgimwcls4duzm.streamlit.app/)
 
-## ⚠️ Disclaimer
+##  Disclaimer
 
 **Important Medical Disclaimer**:
 
@@ -328,7 +328,7 @@ This application is designed for educational and informational purposes only. It
 - If you think you may have a medical emergency, call your doctor or emergency services immediately
 - The predictions made by this model are based on statistical patterns and should not be considered as definitive medical diagnoses
 
-## 🙏 Acknowledgments
+##  Acknowledgments
 
 - Dataset source: Kaggle Heart Disease Dataset
 - Streamlit team for the amazing framework
@@ -337,7 +337,7 @@ This application is designed for educational and informational purposes only. It
 
 ---
 
-**⭐ If you find this project helpful, please consider giving it a star!**
+** If you find this project helpful, please consider giving it a star!**
 
 ---
 
